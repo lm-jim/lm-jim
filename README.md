@@ -1,20 +1,19 @@
 ## 🌟 Hey there! 
 
 - 🕹 Full-stack Game Dev since 2013
-- 📡🌌 Working on Space Surveillance & Tracking
+- 📡🌌 Working on Space Surveillance & Tracking radar
 - 🧪 Passionate about science and technology
 - 🧬 "Pathogen", my latest game now published on Steam!
-
 
 <h2 align="left">🏆 My specialty...</h3>
 <p align="left"> 
 <a href="https://www.unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="35" height="35"/> </a>
 <a href="https://www.c-sharpcorner.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/> </a>
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="35" height="35"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35"/> </a> 
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/> </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="C++" width="35" height="35"/> </a>
+<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="35" height="35"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/></a> 
 </p>
 <h2 align="left">🥈 I've also worked with...</h3>
 <p align="left"> 
@@ -52,13 +51,8 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="35" height="35"/> 
 </a>
 </p>
-<h2 align="left">🌍 Languages</h3>
 
-- 🇪🇸 Native
-- 🇬🇧 Advanced
-- 🇫🇷 🇯🇵 Beginner
-
-<h2 align="center">🧡 My game and social media 🧡</h2>
+<h2 align="left">🧡 My game & Social Media</h2>
 <p align="center">
 <a href="https://store.steampowered.com/app/1907290/Pathogen/" target="blank"><img align="center" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1907290/header.jpg?t=1658417160" alt="Pathogen" width="250" height="110"> </a>
 <!-- 
