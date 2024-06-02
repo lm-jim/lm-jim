@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hey there! 🌟
 
-<!--
-**lm-jim/lm-jim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🕹 Full-stack Game Dev since 2013
+- 📡🌌 Working on Space Surveillance & Tracking
+- 🧪 Passionate about science and technology
+- 🧡 "Pathogen", my latest game now published on Steam!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🔍My media</h3>
+<p align="left">
+<a href="mailto:luismi1700@gmail.com" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="Gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-miguel-jim%C3%A9nez-696a47167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"> </a>
+<a href="https://steamcommunity.com/id/sirio120/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="40" /></a>
+</p>
+<h3 align="left">🏆 My top</h3>
+<p align="left"> 
+<a href="https://www.unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> </a>
+<a href="https://www.c-sharpcorner.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
+<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="C++" width="40" height="40"/> </a>
+</p>
+<h3 align="left">🥈 I've also worked with...</h3>
+<p align="left"> 
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+</a> 
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="40" height="40"/> 
+</a> 
+<a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/> 
+</a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+</a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> 
+</a>
+</p>
+<h3 align="left">🌍 Languages</h3>
+
+- 🇪🇸 Native
+- 🇬🇧 Advanced
+- 🇫🇷 🇯🇵 Beginner
+
+---
+
+## Check out my game on Steam! 🎯
+<p align="center">
+<a href="https://store.steampowered.com/app/1907290/Pathogen/" target="blank"><img align="center" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1907290/header.jpg?t=1658417160" alt="Pathogen" width="250" height="125"> </a>
+<a href="https://store.steampowered.com/app/1907290/Pathogen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" alt="Pathogen" width="50" height="125"> </a>
+<a href="https://store.steampowered.com/app/1907290/Pathogen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_2016_logo_black.svg" alt="Pathogen" width="250" height="125"> </a>
+</p>
+
+---
