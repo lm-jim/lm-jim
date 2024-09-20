@@ -1,4 +1,4 @@
-## 🌟 Hey there! 
+## ✌ Hey there! 
 
 - 🕹 Full-stack Game Dev since 2013
 - 📡🌌 Working on Space Surveillance & Tracking radar
@@ -52,9 +52,9 @@
 </a>
 </p>
 
-<h2 align="left">🧡 My game & Social Media</h2>
+<h2 align="left">🌟 My games & Social Media</h2>
 <p align="center">
-<a href="https://store.steampowered.com/app/1907290/Pathogen/" target="blank"><img align="center" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1907290/header.jpg?t=1658417160" alt="Pathogen" width="250" height="110"> </a>
+<a href="https://lmj-games.com/" target="blank"><img align="center" src="https://lmj-games.com/media/images/LMJ_logoLarge.png" alt="LMJ Games" width="300" height="120"> </a>
 <!-- 
 <a href="https://store.steampowered.com/app/1907290/Pathogen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_2016_logo_black.svg" alt="Pathogen" width="250" height="125"> </a>
 <a href="https://store.steampowered.com/app/1907290/Pathogen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" alt="Pathogen" width="110" height="125"> </a>
