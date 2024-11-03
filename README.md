@@ -64,7 +64,7 @@
 
 </p>
 <p align="center">
-<a href="mailto:luismi1700@gmail.com" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/email-icon/icon-email-icon-clip-art-at-clker-com-vector-qafaq-e-mail-icon-trace--0.png" alt="Gmail" height="35" width="35" /></a>
+<a href="mailto:contact@lmj-games.com" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/email-icon/icon-email-icon-clip-art-at-clker-com-vector-qafaq-e-mail-icon-trace--0.png" alt="Gmail" height="35" width="35" /></a>
 <a href="https://www.instagram.com/pathogen.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="30" width="35" /></a>
 <a href="https://www.linkedin.com/in/luis-miguel-jim%C3%A9nez-696a47167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="35"> </a>
 <a href="https://steamcommunity.com/id/sirio120/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="35" /></a>
